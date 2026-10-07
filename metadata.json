@@ -1,0 +1,9 @@
+{
+  "name": "Mindful Orator",
+  "description": "An AI-driven personal speech and communication coach with live vocal analysis, Google Sheets rehearsal logging, and Gmail feedback sharing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
